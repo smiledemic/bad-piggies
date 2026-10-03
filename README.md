@@ -1,4 +1,4 @@
-Bad Piggies by Rovio Entertainment, Ported By GN-Math
+Bad Piggies by Rovio Entertainment, Ported By GN-Math (Edurocks, ripped by arandomiperson)
 Html5 Version Working Free web browser supported;
 - chrome
 - edge
