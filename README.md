@@ -1,3 +1,15 @@
-So basically, download the file as a html/
-Open your files app and just click it to run on google chrome or whatever browser
-Play!
+Bad Piggies by Rovio Entertainment, Ported By GN-Math
+Html5 Version Working Free web browser supported;
+- chrome
+- edge
+- firefox
+- brave
+- duckduckgo
+- etc.
+
+How to use?
+click the repository page url & play!
+how to locally use/run?
+
+Click `<code>` & LocaL/Download Zip
+:)
